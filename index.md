@@ -1,6 +1,6 @@
 Hi there 👋
 
-这里是Tracy的个人博客<br><br/>
+This is the corner of Tracy<br><br/>
 
 🔭 I’m currently working on learning how to code and applying for a master degree in CS<br><br/>
 
@@ -12,6 +12,7 @@ Hi there 👋
 <br><br/>
 <br><br/>
 
+这里是Tracy的个人博客<br><br/>
 
 🔭 我正在学习如何编程，并且计划在2024年申请计算机专业的硕士<br><br/>
 
