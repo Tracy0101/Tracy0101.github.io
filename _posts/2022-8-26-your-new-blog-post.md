@@ -19,7 +19,7 @@ console.log(y)  //4
 <br><br/>
 ## Postfix  i++
 1.increment first<br><br/>
-2.return the value before increment
+2.return the value before increment<br><br/>
 3.the new incremented value can only be used in the **next line**
 <br><br/>
 ### example 1
