@@ -14,7 +14,7 @@ const heynum = [1,4,9];
 const newnum = heynum.map(math.sqrt) 
 // [1,2,3]
 ```
-
+<br><br/>
 ## 更复杂的功能
 - ✖️5 - 4
 
@@ -29,7 +29,6 @@ function Thefunction(num) {
 // [1,16,41]
 ```
 
-<br><br/>
 <br><br/>
 ## Note
 执行的时候遇到了问题，显示“Unexpected token ILLEGAL”，于是我对照了自己的代码和参考网站上的不同之处，发现使用map功能的那一行结尾处并没有分号，这也许是一个值得注意的点。
