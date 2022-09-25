@@ -17,6 +17,7 @@ const newnum = heynum.map(math.sqrt)
 
 ## 更复杂的功能
 - ✖️5 - 4
+
 ```javascript
 const heynum = [1,4,9];
 
@@ -27,6 +28,7 @@ function Thefunction(num) {
 }
 // [1,16,41]
 ```
+
 <br><br/>
 <br><br/>
 ## Note
